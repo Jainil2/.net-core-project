@@ -1,0 +1,12 @@
+C:\Users\Jainil\OneDrive\Desktop\dayyyyy\Application\JobPortalMVC\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\Jainil\OneDrive\Desktop\dayyyyy\Application\JobPortalMVC\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\Jainil\OneDrive\Desktop\dayyyyy\Application\JobPortalMVC\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.AssemblyReference.cache
+C:\Users\Jainil\OneDrive\Desktop\dayyyyy\Application\JobPortalMVC\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\Jainil\OneDrive\Desktop\dayyyyy\Application\JobPortalMVC\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+C:\Users\Jainil\OneDrive\Desktop\dayyyyy\Application\JobPortalMVC\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+C:\Users\Jainil\OneDrive\Desktop\dayyyyy\Application\JobPortalMVC\DatabaseLayer\bin\Debug\DatabaseLayer.dll.config
+C:\Users\Jainil\OneDrive\Desktop\dayyyyy\Application\JobPortalMVC\DatabaseLayer\bin\Debug\EntityFramework.dll
+C:\Users\Jainil\OneDrive\Desktop\dayyyyy\Application\JobPortalMVC\DatabaseLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jainil\OneDrive\Desktop\dayyyyy\Application\JobPortalMVC\DatabaseLayer\bin\Debug\EntityFramework.xml
+C:\Users\Jainil\OneDrive\Desktop\dayyyyy\Application\JobPortalMVC\DatabaseLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jainil\OneDrive\Desktop\dayyyyy\Application\JobPortalMVC\DatabaseLayer\obj\Debug\DatabaseLayer.csproj.CopyComplete
